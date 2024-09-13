@@ -10,7 +10,7 @@ package edu.cmu.cs.cs214.rec04;
  *
  */
 
-public class DelegationSortedIntList {
+public class DelegationSortedIntList extends SortedIntList{
     // Write your implementation below with API documentation
 
 }
